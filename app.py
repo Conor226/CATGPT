@@ -544,7 +544,7 @@ def resolve_pending_reply():
         else:
             payload = {
                 "cat": "Hiss...",
-                "text": "CatGPT left his desk, maybe try tempt him with some fish",
+                "text": "CatGPT left his desk, maybe try tempt him with some fish, or not he doesn't seem to care",
             }
 
     st.session_state.messages[pending_index]["text"] = payload["text"]
