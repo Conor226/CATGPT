@@ -1,2 +1,2 @@
 # CatGPT
-##Your go to Assitant
+Your go to Assitant
