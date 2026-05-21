@@ -1,6 +1,8 @@
 # Cat GPT
 
-A tiny Streamlit app that responds to any question with either "Meow" or "Purr".
+A usefull cat AI assistant
+
+https://gptcat.streamlit.app/
 
 Requirements
 - Python 3.8+
